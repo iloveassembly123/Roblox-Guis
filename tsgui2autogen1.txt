@@ -1,4 +1,4 @@
-
+--This was a gui for a game named thunder scientific
 local TSGui = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
 local RemoveTab = Instance.new("TextButton")
